@@ -77,11 +77,11 @@ In the Download Table, the 'All' link allows users to download all the data with
 </div>
 &emsp; 
 
-:arrow_right: **Indoor sequences (10 sequences) : [BaiduYun Link](https://pan.baidu.com/s/1ZI7wntHbP-P4_BSvgiCBnw?pwd=bstw)**  <br>
+:arrow_right: **Indoor sequences (10 sequences) : [BaiduYun Link](https://pan.baidu.com/s/1ZI7wntHbP-P4_BSvgiCBnw?pwd=bstw), [Google Link](https://drive.google.com/drive/folders/1_auLpFG7cfzry7gOvMy_-hgKTBdUdSGW?usp=sharing)**  <br>
 Refer to `yaml/GeneralMotion.yaml` in [TextSLAM algorithm](https://github.com/SJTU-ViSYS/TextSLAM/) and Table-2 in [our paper](https://ieeexplore.ieee.org/abstract/document/10285400). <br>
 
 
-:arrow_right: **Indoor sequences for loop test (8 sequences): [BaiduYun Link](https://pan.baidu.com/s/1hWJmZL5s1RMK9THRnCDNHw?pwd=4pfh)**  <br>
+:arrow_right: **Indoor sequences for loop test (8 sequences): [BaiduYun Link](https://pan.baidu.com/s/1hWJmZL5s1RMK9THRnCDNHw?pwd=4pfh), [Google Link](https://drive.google.com/drive/folders/19T8NDApKZ3frWFVRRzo5C4q5c6SGXGNN?usp=sharing)**  <br>
 Refer to `yaml/AIndoorLoop.yaml` in [TextSLAM algorithm](https://github.com/SJTU-ViSYS/TextSLAM/) and Table-4 in [our paper](https://ieeexplore.ieee.org/abstract/document/10285400). <br>
 
 ## B. Large Indoor Scene Download
@@ -92,7 +92,7 @@ Refer to `yaml/AIndoorLoop.yaml` in [TextSLAM algorithm](https://github.com/SJTU
 </div>
 &emsp; 
 
-:arrow_right: **Large Indoor sequences for loop test (9 sequences): [BaiduYun Link](https://pan.baidu.com/s/1Q_Xx7C1pzlhr0Aet_mwaFg?pwd=wibj)**  <br>
+:arrow_right: **Large Indoor sequences for loop test (9 sequences): [BaiduYun Link](https://pan.baidu.com/s/1Q_Xx7C1pzlhr0Aet_mwaFg?pwd=wibj), [Google Link](https://drive.google.com/drive/folders/13QSFdT3fDCQpPVGCNtMYtcuEC2L4S8wM?usp=sharing)**  <br>
 Refer to `yaml/LIndoorLoop.yaml` in [TextSLAM algorithm](https://github.com/SJTU-ViSYS/TextSLAM/) and Table-5 in [our paper](https://ieeexplore.ieee.org/abstract/document/10285400). <br>
 
 ## C. Outdoor Scene Download
@@ -103,10 +103,10 @@ Refer to `yaml/LIndoorLoop.yaml` in [TextSLAM algorithm](https://github.com/SJTU
 </div>
 &emsp; 
 
-:arrow_right: **Day Sequences (8 sequences): [BaiduYun Link](https://pan.baidu.com/s/1W1FCzO4MMFqxkfg8Sv17hw?pwd=4kwf)**  <br>
+:arrow_right: **Day Sequences (8 sequences): [BaiduYun Link](https://pan.baidu.com/s/1W1FCzO4MMFqxkfg8Sv17hw?pwd=4kwf), [Google Link](https://drive.google.com/drive/folders/1dK9Tx88SU92ApZkUHY0MSvne64dUJT56?usp=sharing)**  <br>
 Refer to `yaml/Outdoor.yaml` in [TextSLAM algorithm](https://github.com/SJTU-ViSYS/TextSLAM/) and Table-6 in [our paper](https://ieeexplore.ieee.org/abstract/document/10285400). <br>
 
-:arrow_right: **Night Sequences (1 sequence): [BaiduYun Link](https://pan.baidu.com/s/12GkXY6u1H4tZRrTnwfx3WA?pwd=cwcy)**  <br>
+:arrow_right: **Night Sequences (1 sequence): [BaiduYun Link](https://pan.baidu.com/s/12GkXY6u1H4tZRrTnwfx3WA?pwd=cwcy), [Google Link](https://drive.google.com/drive/folders/1jCrFqrTF2sC5VafJjmlKEc3GcNRwdo43?usp=sharing)**  <br>
 Refer to Figure-23 in [our paper](https://ieeexplore.ieee.org/abstract/document/10285400). <br>
 
 <!-- File Structure -->
